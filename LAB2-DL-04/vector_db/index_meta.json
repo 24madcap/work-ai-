@@ -1,0 +1,13 @@
+{
+  "file": {
+    "size": 32786,
+    "mtime": 1785846396
+  },
+  "settings": {
+    "CHUNK_SIZE": 400,
+    "CHUNK_OVERLAP": 50,
+    "EMBEDDING_MODEL_NAME": "paraphrase-multilingual-MiniLM-L12-v2"
+  },
+  "n_chunks": 35,
+  "source_file": "com_h.txt"
+}
